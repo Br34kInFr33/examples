@@ -1,0 +1,31 @@
+	/* Menu Page */
+	
+	.menu-info {
+		font-size: 1.3rem;
+		color: tan;
+		padding: 10px;
+	}
+	.options {
+		font-size: 2.5rem;
+		color: tan;
+		padding: 50px 0;
+	}
+	
+	.style {
+		font-size: 1.5rem;
+		color: tan;
+		padding: 10px 0;
+	}
+	
+	.ingredients {
+		font-size: 1rem;
+		color: tan;
+		padding: 10px;
+	}
+	
+	/* Footer */
+	
+	.footer {
+		color: tan !important;
+		padding-top: 20px;
+	}
